@@ -1,2 +1,2 @@
-Hi There
+**ReadMe for GeekAdonis blog pages**
 
